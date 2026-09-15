@@ -1,0 +1,12 @@
+{
+  "name": "bharosa-smp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.35.0"
+  }
+}
+
